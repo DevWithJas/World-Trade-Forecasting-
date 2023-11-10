@@ -28,4 +28,5 @@ Conclusion:
 The project aims to provide valuable insights into historical export trends, identify significant contributors, and offer forecasts for future export values. The combination of trend analysis and machine learning techniques enhances the understanding of export dynamics.
 
 ![image](https://github.com/CreateJas/World-Trade-Forecasting-/assets/91935368/e4db2ca6-35dd-47ac-b6b7-8fe893bd3bb3)
+![image](https://github.com/CreateJas/World-Trade-Forecasting-/assets/91935368/bf929fe4-ab35-416b-acda-3d79a5f4ce1a)
 
